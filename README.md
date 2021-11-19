@@ -1,2 +1,3 @@
-# DanielSun
-A Minecraft developer, Java learner and a High-school Student.
+# DylanWake
+Architect of the Segmented Engine of Algorithmic Neurons (S.E.A.N) 
+
