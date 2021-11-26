@@ -1,4 +1,4 @@
-![DylanName](https://github.com/DylanWake/DylanWake/blob/master/dylan1.png)
+![DylanName](https://github.com/DylanWake/DylanWake/blob/master/title.png)
 
 ##DylanWake
 
