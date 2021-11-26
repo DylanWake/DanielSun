@@ -1,6 +1,6 @@
 ![DylanName](https://github.com/DylanWake/DylanWake/blob/master/title.png)
 
-##DylanWake
+# DylanWake
 
-Architect of the Segmented Engine of Algorithmic Neurons (S.E.A.N) 
+Architect of the Sean Engine of Algorithmic Neurons (S.E.A.N) 
 
