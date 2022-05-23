@@ -2,7 +2,7 @@
 
 # DylanWake
 
-Architect of the Sean Engine of Algorithmic Neurons (S.E.A.N) 
+Architect of the Sequential Engine of Algorithmic Neural Networks (S.E.A.N.N) 
 
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylanWake&show_icons=true&theme=tokyonight)](https://github.com/DylanWake/github-readme-stats)
 
